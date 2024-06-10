@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Burak Durak.</h1>
-<h3 align="left"> Please check out my skills and portfolio below. </h3>
+<h1 align="left">Merhaba 👋, Ben Burak Durak.</h1>
+<h3 align="left"> Aşağıdaki becerilerimi ve portföyümü kontrol edin lütfen. </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Benimle bağlantı kurabilirsiniz.</h3>
 <p align="left"> 
 https://www.linkedin.com/in/brkdrk/
 <a href="https://www.linkedin.com/in/brkdrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/brkdrk" height="30" width="40" /></a>
@@ -9,7 +9,7 @@ burakdurak779@gmail.com
 <a href="mailto:burakdurak@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=X0mEIh0RyDdL&format=png" alt="email" height="40" width="40" /></a>
 </p>
 
-# Education And Certification
+# Eğitim ve Sertifikasyon
 
 - Muğla Sıtkı Koçman Üniversitesi - Bilgisayar Programcılığı
 - Cloud - DevOps Engineer Bootcamp
@@ -17,7 +17,7 @@ burakdurak779@gmail.com
 - AWS Cloud Quest: Cloud Practitioner
 
 
-# Skills
+# Yetenekler
 
 ### ~ Cloud Platforms
   - Amazon Web Services (AWS) <a href="https://aws.amazon.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> </a>
