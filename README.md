@@ -3,15 +3,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-https://www.linkedin.com/in/fthyldz/
-<a href="https://www.linkedin.com/in/fthyldz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fthyldz" height="30" width="40" /></a>
-fthyldz8935@gmail.com
-<a href="mailto:fthyldz8935@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=X0mEIh0RyDdL&format=png" alt="email" height="40" width="40" /></a>
+https://www.linkedin.com/in/brkdrk/
+<a href="https://www.linkedin.com/in/brkdrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/brkdrk" height="30" width="40" /></a>
+burakdurak779@gmail.com
+<a href="mailto:burakdurak@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=X0mEIh0RyDdL&format=png" alt="email" height="40" width="40" /></a>
 </p>
 
 # Education And Certification
 
-- Ege University - Communication
+- Muğla Sıtkı Koçman Üniversitesi - Bilgisayar Programcılığı
 - Cloud - DevOps Engineer Bootcamp
 - AWS Certified Solutions Architect – Associate
 - AWS Cloud Quest: Cloud Practitioner
