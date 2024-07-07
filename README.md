@@ -13,8 +13,7 @@ burakdurak779@gmail.com
 
 - Muğla Sıtkı Koçman Üniversitesi - Bilgisayar Programcılığı
 - Cloud - DevOps Engineer Bootcamp
-- AWS Certified Solutions Architect – Associate
-- AWS Cloud Quest: Cloud Practitioner
+
 
 
 # Yetenekler
